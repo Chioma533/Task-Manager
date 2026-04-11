@@ -35,6 +35,8 @@ const SignUp = () => {
     setError("")
 
     // Signup API call
+    
+
   }
   return (
     <AuthLayout>
